@@ -7,7 +7,7 @@ namespace Project_Euler_Solution
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
